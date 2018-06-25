@@ -6,7 +6,7 @@
     "dotenv": "^1.2.0",
     "lodash": "^3.10.1",
     "node-gitter": "^1.2.8",
-    "request": "~2.27.0"
+    "request": "~2.50.0"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.0",
